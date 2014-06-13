@@ -14,3 +14,14 @@ these, 50 stem from class w1, and the other 50 data vectors stem from class w2.
 3.	Generate a test data set Z using the specification of X. 
 	Classify the test data set Z via the designed classifier and 
 	plot the error P versus the number of weak classifiers used.
+
+## Howto
+Just run the `Demo.m`.
+
+## Result
+
+![result](https://raw.githubusercontent.com/timmy00274672/Adaboost/master/img/result.jpg)
+
+## Reference
+
+* [Classic AdaBoost Classifier](http://www.mathworks.com/matlabcentral/fileexchange/27813-classic-adaboost-classifier)
